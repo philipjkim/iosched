@@ -1,7 +1,7 @@
 iosched
 =======
 
-Program Schedule app for Google I/O (forked from Google Code)
+Program Schedule app for [Google I/O](https://developers.google.com/events/io/) (forked from [Google Code](http://code.google.com/p/iosched/))
 
 Google I/O is a developer conference held each year with two days of deep technical content featuring technical sessions and hundreds of demonstrations from developers showcasing their technologies.
 
@@ -22,3 +22,7 @@ With the app, you can:
 * Play "I/O Live" session video streams on your Android 3.0+ devices
 * Beam session details from your Android 4.0, NFC-enabled device to another using Android Beam
 * Scan attendee badges on your NFC-enabled device 
+
+For how to build this project, see [BUILDING.txt](BUILDING.txt).
+
+For the license of this project, see [LICENSE.txt](LICENSE.txt).
